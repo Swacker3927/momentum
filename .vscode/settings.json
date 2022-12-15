@@ -1,0 +1,11 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
+  "explorer.confirmDelete": false,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "window.zoomLevel": 0,
+  "explorer.confirmDragAndDrop": false,
+  "emmet.variables": {
+    "lang": "ko"
+  }
+}
